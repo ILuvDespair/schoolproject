@@ -22,6 +22,6 @@ Just a basic school project using tkinter coded in python. Opens a tkinter windo
 
 * First open terminal and navigate to the directory where the file is saved using the `cd` command.
 * Second you are going to want to run the following commands: `pip install tkinter` then `pip install random`
-* last all you have to do is type `python xxx.py` and it should run!
+* Last all you have to do is type `python xxx.py` and it should run!
 
 Have fun I guess :,)
