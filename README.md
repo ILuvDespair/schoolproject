@@ -1,5 +1,9 @@
 # Are you going to hell?
+
 Just a basic school project using tkinter coded in python. Opens a tkinter window and uses a dictionary mapping action to determine if the user would go to hell or not depending on their input.
+
+
+# Preview
 
 * Main window
 ![zjrKfyRTTa](https://user-images.githubusercontent.com/131752112/234217162-5fc85ce4-21ca-4c09-a013-15154a73101e.png)
@@ -12,3 +16,12 @@ Just a basic school project using tkinter coded in python. Opens a tkinter windo
 
 * You're in the clear!
 ![op5xFNiLhj](https://user-images.githubusercontent.com/131752112/234216648-206408fb-81c9-4fa0-a58e-5b2e971031ff.png)
+
+
+# How to use
+
+* First open terminal and navigate to the directory where the file is saved using the `cd` command.
+* Second you are going to want to run the following commands: `pip install tkinter` then `pip install random`
+* last all you have to do is type `python xxx.py` and it should run!
+
+Have fun I guess :,)
